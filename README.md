@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm an undergrad in CS, Math, and Stats at Manipal University Jaipur. Currently working on AI and Deep Learning projects in tech industry as well as through independent research. 
+
+Standing on the shoulder of giants, looking into the vast multiverse ✨
 
 <!--
 **teddyphotos/teddyphotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
