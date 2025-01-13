@@ -1,4 +1,4 @@
-I'm an undergrad in CS, Math, and Stats at Manipal University Jaipur. Currently working on AI and Deep Learning projects in tech industry as well as through independent research. 
+I'm an Master's Student in CS, Math, and Stats at National Institute of Technology, India. Currently working on AI and Deep Learning projects in tech industry as well as through independent research. 
 
 Standing on the shoulder of giants, looking into the vast multiverse ✨
 
